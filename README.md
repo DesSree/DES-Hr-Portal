@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Simple Website</h1>
+        <h1>Welcome to Dynamic HR Solutions</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
